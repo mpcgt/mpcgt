@@ -1,6 +1,6 @@
 # Bonjour 👋
 
-Je m'appelle Max, j'ai 17 ans. Je suis un développeur web et mobile passionné en France.
+Je m'appelle Max, j'ai 18 ans. Je suis un développeur web et mobile passionné en France.
 
 ## Mon parcours 🚀
 
