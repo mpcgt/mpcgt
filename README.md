@@ -6,7 +6,7 @@ Je m'appelle Max, j'ai 18 ans. Je suis un développeur web et mobile passionné 
 
 <a href="mailto:levetica.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/mpcgt/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.levetica.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+<a href="https://levetica.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 
 ## Mon parcours 🚀
 
