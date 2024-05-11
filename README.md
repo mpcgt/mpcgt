@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mpcgt/mpcgt/main/README_img.png" width="800" height="400" />
+<img src="https://raw.githubusercontent.com/mpcgt/mpcgt/main/README_img.png" />
 
 # 👋 Bonjour, je suis Max !
 ## Développeur web front-end passionné en France
