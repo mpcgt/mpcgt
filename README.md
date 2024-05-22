@@ -6,7 +6,7 @@
 # 👋 Bonjour, je suis Max !
 ## Développeur web front-end passionné en France
 🔭 Je travaille actuellement sur [Levetica](https://github.com/mpcgt/levetica)<br/>
-🌱 J'apprends actuellement **Angular & Nuxt (Vue)**<br/>
+🌱 J'apprends actuellement **React Native et Vue.js**<br/>
 ⚡ Fait amusant : Je code des sites web depuis de mes 13 ans<br/>
 
 <a href="mailto:levetica.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
