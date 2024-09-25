@@ -16,7 +16,11 @@
 <details>
   <summary>👨🏻‍💻 presentation</summary>
   <br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mpcgt&label=Profile%20views&color=9176b7&style=flat" alt="mpcgt" /> </p>
+  <p align="center">
+    <img src="https://github.com/mpcgt/mpcgt/blob/main/icon/portfolio.png?raw=true" />
+      <br />
+    <img src="https://komarev.com/ghpvc/?username=mpcgt&label=Profile%20views&color=9176b7&style=flat" alt="mpcgt" />
+  </p>
 
 - 😆 My portfolio [in my website](https://mpcgt.vercel.app)
 
