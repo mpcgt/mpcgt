@@ -9,7 +9,9 @@
 
 <details>
   <summary>✨ curious?</summary>
-
+  <br />
+<img src="https://github.com/mpcgt/mpcgt/blob/main/icon/portfolio.png?raw=true" />
+  <br />
 <h1 align="center">Hello 👋🏻, I'm Max</h1>
 <h3 align="center">A passionate web developer. 👨🏻‍💻</h3>
 
@@ -17,8 +19,6 @@
   <summary>👨🏻‍💻 presentation</summary>
   <br />
   <p align="center">
-    <img src="https://github.com/mpcgt/mpcgt/blob/main/icon/portfolio.png?raw=true" />
-      <br />
     <img src="https://komarev.com/ghpvc/?username=mpcgt&label=Profile%20views&color=9176b7&style=flat" alt="mpcgt" />
   </p>
 
