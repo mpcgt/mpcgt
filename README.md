@@ -26,13 +26,11 @@
 
 - 🔭 I'm currently working on [Saguenay](https://github.com/mpcgt/saguenay)
 
-- 🌱 I'm currently learning **Angular**
-
 - 👨‍💻 All my projects [are available](https://mpcgt.vercel.app/projets)
 
 - 💬 Ask me about **React**
 
-- 📫 How to contact me **levetica.dev@gmail.com**
+- 📫 How to contact me **sgn.ntwk@gmail.com**
 
 - 📄 Know about [my experiences](https://mpcgt.vercel.app)
 
@@ -57,14 +55,14 @@
 **Mobile** | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 **Cloud** | ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 **System** | ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-**Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+**Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Docusarus](https://img.shields.io/badge/Docusaurus-3ECC5F?style=for-the-badge&logo=Docusaurus&logoColor=white)
 **IDE** | ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 </details>
 
 <details>
   <summary>🏅 support</summary>
   <br />
-<p><a href="https://www.buymeacoffee.com/mpcgt_"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="180" alt="mpcgt_" /></a></p><br><br>
+<p><a href="https://buymeacoffee.com/mpcgt_"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="180" alt="mpcgt_" /></a></p><br><br>
 </details>
 
 <details>
